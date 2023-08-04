@@ -5,6 +5,6 @@ wait(5)
 local gui = Instance.new("ScreenGui",game.Players.LocalPlayer.PlayerGui)
 gui.Name = "bro u banned my nigga"
 
-wait(1)
+wait(10)
 
 while true do print("nigga") end
